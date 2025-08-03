@@ -130,12 +130,5 @@ Ce fichier contient environ **5.8 millions** de lignes et **31 colonnes**. Chaqu
 - Power BI Desktop
 - Apache Airflow 
 
-
-## 🧾 Remarque sur les fichiers volumineux
-
-> Le fichier `flights.csv` est trop volumineux pour être hébergé sur GitHub (limite de 100 Mo).  
-> Il est volontairement **ignoré via `.gitignore`**.  
-> ➕ Une alternative avec **Git LFS** peut être envisagée, mais ce projet propose uniquement un téléchargement manuel.
-
 ---
 
